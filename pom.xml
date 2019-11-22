@@ -67,7 +67,7 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<name>GitHub OWNER Apache Maven Packages</name>
+			<name>GitHub rlapray Apache Maven Packages</name>
 			<url>https://maven.pkg.github.com/rlapray/logback-redis-appender.git</url>
 		</repository>
 	</distributionManagement>
