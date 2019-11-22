@@ -128,6 +128,10 @@ MDC properties can be configured with default values by using the `:-` signifier
 
 # ChangeLogs
 
+## Version 1.1.7 -> 1.1.6
+
+* Jedis 3.1.0 support and loback-classic 1.2.3
+
 ## Version 1.1.5 -> 1.1.4
 
 * Ability to set custom Layout (Thanks brynjargles suggestion)
