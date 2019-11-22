@@ -1,5 +1,4 @@
-
-[![Build Status](https://travis-ci.org/kmtong/logback-redis-appender.png?branch=master)](https://travis-ci.org/kmtong/logback-redis-appender)
+Forked from https://github.com/kmtong/logback-redis-appender/, with jedis 3.1.0 support 
 
 # Usage
 
@@ -7,7 +6,7 @@ Now in Maven Central Repository:
 
 ```xml
 <dependency>
-  <groupId>com.cwbase</groupId>
+  <groupId>com.rlapray</groupId>
   <artifactId>logback-redis-appender</artifactId>
   <version>1.1.5</version>
 </dependency>
